@@ -16,7 +16,7 @@ a {
 p {
     font-size: 16px;
 }
-/* header CSS */
+/* header (CSS for the name of the website  which is the Horiseon) */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +49,8 @@ p {
 /* CSS for main */
 
 /* Css for main (section) */
+
+/* this is the big image on the website with the 4 people that is on the meeting */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,28 +59,29 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* default css for all the h2 in all the section */
 h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* applies for the three content of the website */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     
 }
-
+/* this affect the image on search engine optimization and the social media marketing */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* this affect the image of online reputation management */
 .float-right {
     float: right;
     margin-left: 25px;
 }
+/* this are for the content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,7 +108,7 @@ h2{
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* this are for the images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -118,6 +121,8 @@ h2{
     max-height: 200px;
 }
 /* CSS for main (figure) */
+
+/* default css for all the h3 in figure */
 h3{
     margin-bottom: 10px;
     text-align: center;
@@ -132,7 +137,7 @@ h3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* this is for the content */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -147,6 +152,7 @@ h3{
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* this for the images or icon */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -174,7 +180,7 @@ h3{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* css for the h4 */
 .footer h4 {
     font-size: 20px;
 }
